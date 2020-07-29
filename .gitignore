@@ -1,0 +1,13 @@
+**/__pycache__/
+env/
+.tags
+
+**/.ipynb_checkpoints
+data/*
+!data/combined_reduced.csv
+**/figures/
+out/*
+!out/checkpoint.zip
+
+data_final/prediction
+data_final/Tests
